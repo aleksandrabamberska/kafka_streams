@@ -1,0 +1,16 @@
+[
+  { "stationId":"AIR-WAW-001","name":"Warszawa Ursynow",  "lat":52.1672,"lon":21.0333,"district":"Ursynow",  "stationType":"URBAN_TRAFFIC"     },
+  { "stationId":"AIR-WAW-002","name":"Warszawa Wola",     "lat":52.2369,"lon":20.9817,"district":"Wola",     "stationType":"URBAN_BACKGROUND"   },
+  { "stationId":"AIR-KRK-001","name":"Krakow Al.Krasins.","lat":50.0574,"lon":19.9264,"district":"Srodmiescie","stationType":"TOWN"     },
+  { "stationId":"AIR-GDA-001","name":"Gdansk Wrzeszcz",  "lat":54.3797,"lon":18.6019,"district":"Wrzeszcz", "stationType":"SUBURBAN"           },
+  { "stationId":"AIR-WRO-001","name":"Wroclaw Bartnicza", "lat":51.1143,"lon":17.0336,"district":"Psie_Pole","stationType":"URBAN_BACKGROUND"   },
+  { "stationId":"AIR-POZ-001","name":"Poznan Polanka",     "lat":52.3992,"lon":16.9497,"district":"Polanka",      "stationType":"URBAN_TRAFFIC"   },
+  { "stationId":"AIR-POZ-002","name":"Poznan Jezyce",      "lat":52.4169,"lon":16.8932,"district":"Jezyce",       "stationType":"URBAN_BACKGROUND" },
+  { "stationId":"AIR-LDZ-001","name":"Lodz Widzew",        "lat":51.7676,"lon":19.4564,"district":"Widzew",       "stationType":"URBAN_TRAFFIC"   },
+  { "stationId":"AIR-LDZ-002","name":"Lodz Baluty",        "lat":51.7852,"lon":19.4543,"district":"Baluty",       "stationType":"TOWN"         },
+  { "stationId":"AIR-KAT-001","name":"Katowice Ligota",    "lat":50.2306,"lon":18.9708,"district":"Ligota",       "stationType":"URBAN_BACKGROUND" },
+  { "stationId":"AIR-KAT-002","name":"Katowice Centrum",   "lat":50.2599,"lon":19.0216,"district":"Centrum",      "stationType":"URBAN_TRAFFIC"   },
+  { "stationId":"AIR-BDZ-001","name":"Bialystok Sienkiew.", "lat":53.1325,"lon":23.1688,"district":"Sienkiewicza", "stationType":"PROVINCE"         },
+  { "stationId":"AIR-SZC-001","name":"Szczecin Zawadzkie",  "lat":53.4285,"lon":14.5528,"district":"Zawadzkiego",  "stationType":"URBAN_BACKGROUND" },
+  { "stationId":"AIR-LUB-001","name":"Lublin Krolewska",    "lat":51.2480,"lon":22.5661,"district":"Czuby",        "stationType":"URBAN_TRAFFIC"   }
+]
